@@ -1,0 +1,6 @@
+1 buscar la noticia
+2 verificar la noticia
+3 buscar la fecha de la noticia
+4 confirmar la noticia
+5 evaluar la noticia 
+6 publicar la noticia
