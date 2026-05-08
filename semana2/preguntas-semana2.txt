@@ -1,0 +1,1 @@
+respuestas 1=B\nrespuestas 2=B\nrespuestas 3=C\nrespuestas 4=B

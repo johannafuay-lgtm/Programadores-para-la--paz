@@ -1,0 +1,1 @@
+pwd-ubicacion de carpeta-ls-lista de carpetas-git status-mkdir-crear una carpeta-cd-ingresar a la carperta
