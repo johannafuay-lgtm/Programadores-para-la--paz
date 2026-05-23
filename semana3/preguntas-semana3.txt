@@ -1,0 +1,4 @@
+respuesta 1=B
+respiesta 2=B
+respuesta 3=B
+respuesta 4=A

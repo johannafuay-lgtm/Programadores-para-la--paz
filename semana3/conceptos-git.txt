@@ -1,0 +1,2 @@
+repositorio es el lugar del almacenamiento que sirve para gestionar los documentos
+archivos y datos para permitir su acceso a recuperacion y preservacion de archivos
