@@ -1,0 +1,1 @@
+preguntas1 respuesta 1=B/n pregunta2 respuesta 2=B/n pregunta3 respuesta 3=B/n pregunta4 respuesta 4=B/n
