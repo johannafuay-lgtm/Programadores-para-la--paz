@@ -1,0 +1,1 @@
+1.entidad:cliente.id:cliente.nombre.correo.telefono 2entidas:pedido.id:pedido.id:cliente.fecha:pedido.monto:total
